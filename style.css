@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(#cfffff 0%,#feb0e0 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+    opacity: 0.7;
+}
+.link {
+    display: inline;
+    list-style: none;
+    float: inherit;
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+}
+.link:hover {
+    background-color: dodgerblue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.contact a {
+    color: white;
+    text-shadow: none;
+}
+.contact h2 {
+    display: inline;
+}
+#contact {
+    background-color: lightskyblue;
+}
